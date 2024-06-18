@@ -3,7 +3,7 @@
 	"contentVersion": "1.0.0.0",
 	"parameters": {
 		"appName": {
-			"value": "myUniqueAppName"
+			"value": "ApplicationWebApp1999"
 		},
 		"appServicePlanName": {
 			"value": "B1"
