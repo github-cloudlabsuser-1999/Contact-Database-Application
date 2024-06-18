@@ -139,6 +139,7 @@
     <Content Include="Infrastructure\deploy.json" />
     <Content Include="Infrastructure\deploy.parameters.json" />
     <Content Include="Infrastructure\Temp.json" />
+    <Content Include="README.md" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
